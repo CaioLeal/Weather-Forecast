@@ -9,7 +9,11 @@
 * The idea came from the need to create a functional application that consumes real data. It is a weather forecast website where the main focus was to practice consuming external APIs (**OpenWeatherMap**), DOM manipulation, and creating a pleasant interface. In the future, the project will support multiple languages and animated backgrounds according to the weather! 🌧️☀️
 
 <div align="center">
-   ![Weather+Forecast](https://github.com/user-attachments/assets/5199903b-2590-4510-82ec-2939285e5d3f)
+   
+
+https://github.com/user-attachments/assets/c8d2d7b0-d527-4ae8-bc84-b7e3d8c5d7c8
+
+
 </div>
 
 ### 🔗 Project Link:
